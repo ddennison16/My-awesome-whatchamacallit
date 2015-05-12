@@ -1,0 +1,20 @@
+
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+h1 {
+  color:red;
+font-family: 'Indie Flower', cursive;
+}
+
+img{
+  width: 30%
+}
+
+p{
+  font-family: 'Indie Flower', cursive;
+}
+h2{font-size: 50px;
+}
+
+/* #thing{
+  color: blue
+} */
